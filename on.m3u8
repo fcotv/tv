@@ -213,6 +213,9 @@ DOCUMENTALES
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W4Lm36ST/History.png", Historia
 https://jmp2.uk/stvp-US2600019IC
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kPkCdWw/History2.png", History 2
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/azcinema.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccbycBpz/HyV.png", Historia Y Vida
 https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist.m3u8
 
