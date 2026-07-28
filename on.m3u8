@@ -38,7 +38,7 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://garabitotv.com/wp-content/uploads/2025/03/LOGO-GARABITO-TV-2048x1662.png", Garabito TV 
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w725293688.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tPQfX4bV/Estrellas.png", Las Estrellas
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/company/902/icons/605b3f2c5b27a.png", Las Estrellas
 http://177.234.249.135:8888/LasEstrellas/index.m3u8
 
 ESTADOS UNIDOS 
