@@ -35,6 +35,9 @@ https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksf9y0tD/Agape.png", Agapetv 8
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://canalgtv.tv/wp-content/uploads/2026/01/cropped-full-color-sin-fondo-1-scaled-1.png", GTV Canal
+https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://garabitotv.com/wp-content/uploads/2025/03/LOGO-GARABITO-TV-2048x1662.png", Garabito TV 
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w725293688.m3u8
 
@@ -131,6 +134,9 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cadenaelite.es/images/logoMenu.png", Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="", Frecuencia 
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 SUR AMERICA
 
