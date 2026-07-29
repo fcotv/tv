@@ -135,7 +135,7 @@ https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 SUR AMERICA
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TGb4xdH/Caracol.png", Caracol
-http://181.78.14.26:4000/play/a00d/index.m3u8
+http://45.171.108.253:8888/CARACOL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F0481d833-0e0b-4aba-88c4-56896b5991c9%2FCaracol_Mix_WHT_log.png", Caracol Mix
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69b34723983c968e9cdb2c86.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=kq9ybG6YtxKmzs_zkLWR
