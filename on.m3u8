@@ -135,9 +135,6 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://www.cadenaelite.es/images/logoMenu.png", Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="", Frecuencia 
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
 SUR AMERICA
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TGb4xdH/Caracol.png", Caracol
