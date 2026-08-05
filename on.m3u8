@@ -141,7 +141,7 @@ http://45.171.108.253:8888/CARACOL/index.m3u8
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69b34723983c968e9cdb2c86.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=kq9ybG6YtxKmzs_zkLWR
 
 #EXTINF:-1 tvg-logo="https://www.canalrcn.com/images/logo.svg", RCN
-http://138.186.23.7:8082/RCN/index.m3u8
+http://181.78.14.26:4000/play/a07m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ynb9k1hb/Latina.png", Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
