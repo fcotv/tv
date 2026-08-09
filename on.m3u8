@@ -38,9 +38,6 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://garabitotv.com/wp-content/uploads/2025/03/LOGO-GARABITO-TV-2048x1662.png", Garabito TV 
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w725293688.m3u8
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/company/902/icons/605b3f2c5b27a.png", Las Estrellas
-http://177.234.249.135:8888/LasEstrellas/index.m3u8
-
 ESTADOS UNIDOS 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", USA Univision
@@ -152,6 +149,9 @@ https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nd3vmbKv/Star-Channel.png", Star Channel 
 https://streamer.metronethn.com/StarChannel/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LmBZS7W/El-Sol.png", El Sol Network
+https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
+
 PELICULAS
 
 #EXTINF:-1 tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png", Cindie 
@@ -213,9 +213,6 @@ https://amg00658-amg00658c9-lg-us-7505.playouts.now.amagi.tv/playlist/amg00658-c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8LNW0JNR/Clasico.png",FreeTV Clásico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16512&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2024/12/logo-d-pelicula.png", De Pelicula
-http://138.121.15.230:9002/DEPELICULA/index.m3u8
 
 DOCUMENTALES
 
