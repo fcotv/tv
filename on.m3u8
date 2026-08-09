@@ -149,6 +149,9 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WN1st1qy/Lakalle.png", La Kalle 96.9
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nd3vmbKv/Star-Channel.png", Star Channel 
+https://streamer.metronethn.com/StarChannel/index.m3u8
+
 PELICULAS
 
 #EXTINF:-1 tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png", Cindie 
@@ -307,8 +310,8 @@ https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v6RLDtNK/SYFY.png", SYFY
 https://gpuserver5.tier1streams.com/SYFY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/960px-ActionMax_logo.svg.png", ActionMax
-https://gpuserver3.tier1streams.com/ACTIONMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/FLIX.png", Flix
+https://gpuserver3.tier1streams.com/FLIX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1-1536x403.png", Charge
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
