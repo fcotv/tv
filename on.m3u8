@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://campa-cach05.onetv.tigo.com/scalimgdlvry/ReporTV/49673683.png", Cine Canal
+#EXTINF:-1 tvg-logo="https://campa-cach05.onetv.tigo.com/scalimgdlvry/ReporTV/49673683.png?dsth=630&dstw=1200&quality=65&srch=240&srcmode=0&srcw=426&srcx=0&srcy=0&type=2", Cine Canal
 http://45.162.193.35/CINECANAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2qP8WLw/Lider.png", Canal 5 El Líder
