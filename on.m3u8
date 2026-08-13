@@ -1,6 +1,7 @@
 #EXTM3U 
 
-CENTRO AMERICA 
+#EXTINF:-1 tvg-logo="https://campa-cach05.onetv.tigo.com/scalimgdlvry/ReporTV/49673683.png", Cine Canal
+http://45.162.193.35/CINECANAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2qP8WLw/Lider.png", Canal 5 El Líder
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
@@ -37,9 +38,7 @@ https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://garabitotv.com/wp-content/uploads/2025/03/LOGO-GARABITO-TV-2048x1662.png", Garabito TV 
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w725293688.m3u8
-
-ESTADOS UNIDOS 
-
+ 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", USA Univision
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 
@@ -97,8 +96,6 @@ https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F35a1d7e4-caa3-477a-b813-90d23a756a16%2Fxitesiemprelatino_logo_light_-_Arlette_FiranRDX.png", XITE Siempre Latino
 https://jmp2.uk/stvp-USBD3300010L9
 
-ESPAÑA
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXbX4kZJ/La1.png", La 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&preroll_duration=30&preroll=1
 
@@ -145,11 +142,6 @@ https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nd3vmbKv/Star-Channel.png", Star Channel 
 https://streamer.metronethn.com/StarChannel/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LmBZS7W/El-Sol.png", El Sol Network
-https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
-
-PELICULAS
 
 #EXTINF:-1 tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png", Cindie 
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt040&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=a3848042-d204d1c2-b14a913a-c06c2f0d&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
@@ -211,8 +203,6 @@ https://amg00658-amg00658c9-lg-us-7505.playouts.now.amagi.tv/playlist/amg00658-c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8LNW0JNR/Clasico.png",FreeTV Clásico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16512&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
-DOCUMENTALES
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W4Lm36ST/History.png", Historia
 https://jmp2.uk/stvp-US2600019IC
 
@@ -231,8 +221,6 @@ https://jmp2.uk/stvp-US22000020U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1G1hMR1J/Love-Planet.png", Love the Planet
 https://amg01821-lovetv-amg01821c9-xiaomi-international-752.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovetheplanetsp-xiaomiinternational/playlist.m3u8
 
-CANALES EN PORTUGUÉS
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GqDnDj6/Globo.png", Globo TV Bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
@@ -247,8 +235,6 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CK9pSFpz/LA7.png", La 7 Italia
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
-
-CANALES EN INGLES
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xtNXp4Zs/ion.png", ion Television
 https://jmp2.uk/stvp-USBD300002TU
@@ -303,9 +289,6 @@ https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v6RLDtNK/SYFY.png", SYFY
 https://gpuserver5.tier1streams.com/SYFY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/FLIX.png", Flix
-https://gpuserver3.tier1streams.com/FLIX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1-1536x403.png", Charge
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
