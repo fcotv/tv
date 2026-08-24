@@ -6,6 +6,9 @@ http://209.14.115.253:8081/LAS-ESTRELLAS/index.m3u8
 #EXTINF:-1 tvg-logo="https://campa-cach05.onetv.tigo.com/scalimgdlvry/ReporTV/49673683.png?dsth=630&dstw=1200&quality=65&srch=240&srcmode=0&srcw=426&srcx=0&srcy=0&type=2", Cine Canal
 http://45.162.193.35/CINECANAL/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nd3vmbKv/Star-Channel.png", Star Channel 
+https://streamer.metronethn.com/StarChannel/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2qP8WLw/Lider.png", Canal 5 El Líder
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 
@@ -148,9 +151,6 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WN1st1qy/Lakalle.png", La Kalle 96.9
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Nd3vmbKv/Star-Channel.png", Star Channel 
-https://streamer.metronethn.com/StarChannel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png", Cindie 
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt040&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=a3848042-d204d1c2-b14a913a-c06c2f0d&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
