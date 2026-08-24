@@ -9,6 +9,9 @@ http://209.14.115.253:8081/LAS-ESTRELLAS/index.m3u8
 #EXTINF:-1 tvg-logo="https://campa-cach05.onetv.tigo.com/scalimgdlvry/ReporTV/49673683.png?dsth=630&dstw=1200&quality=65&srch=240&srcmode=0&srcw=426&srcx=0&srcy=0&type=2", Cine Canal
 http://45.162.193.35/CINECANAL/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://campa-cach05.onetv.tigo.com/scalimgdlvry/ReporTV/49673683.png?dsth=630&dstw=1200&quality=65&srch=240&srcmode=0&srcw=426&srcx=0&srcy=0&type=2", Cine Canal
+http://15.204.246.24:8080/CinecanalHD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nd3vmbKv/Star-Channel.png", Star Channel 
 https://streamer.metronethn.com/StarChannel/index.m3u8
 
@@ -44,9 +47,6 @@ https://cdn1.cef-technology.com/wow/wow_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksf9y0tD/Agape.png", Agapetv 8
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://prensalibre-com-develop.go-vip.co/guatevision/wp-content/uploads/sites/2/2024/05/guatevision_logo.png?quality=82", Guatevision
-https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8kJTZ3m/10.png", Canal 10
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
