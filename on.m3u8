@@ -1,7 +1,7 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo
-http://168.228.44.241:9997/play/a07g/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2024/09/LOGO-SELLO-PANTALLA-GRANDE-1600x900.png", TV Latina
+https://master.tucableip.com/tvlatina/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tPQfX4bV/Estrellas.png", Las Estrellas
 http://209.14.115.253:8081/LAS-ESTRELLAS/index.m3u8
@@ -11,9 +11,6 @@ https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://campa-cach05.onetv.tigo.com/scalimgdlvry/ReporTV/49673683.png?dsth=630&dstw=1200&quality=65&srch=240&srcmode=0&srcw=426&srcx=0&srcy=0&type=2", Cine Canal
 http://45.162.193.35/CINECANAL/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Nd3vmbKv/Star-Channel.png", Star Channel 
-https://streamer.metronethn.com/StarChannel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logosnicas.com/wp-content/uploads/2024/02/wtv_canal_20_nueva_guinea.png", WTV 
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
