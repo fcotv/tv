@@ -1,5 +1,8 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://telelibrefull.icu/img/antena3.png", Antena 3
+https://xameleon.phantemlis.top/four/secure/e817d875d87d9d19f535b3945d6de9b3/1787800116/premium531/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2024/09/LOGO-SELLO-PANTALLA-GRANDE-1600x900.png", TV Latina
 https://master.tucableip.com/tvlatina/index.m3u8
 
