@@ -3,14 +3,14 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wN3HXZbn/Cinepolis.png", Cinepolis
 https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-cinepolislt-lgmx/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TSWslSAFLfv5dJG_JkCMhFpr9GzQicqNlO8uMo3h02e4i6fKbxV8gbi3SbdFePRDDSY", Quiero TV
-https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png", Cindie 
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt040&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=a3848042-d204d1c2-b14a913a-c06c2f0d&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
 #EXTINF:-1 tvg-logo="https://campa-cach05.onetv.tigo.com/scalimgdlvry/ReporTV/49673683.png?dsth=630&dstw=1200&quality=65&srch=240&srcmode=0&srcw=426&srcx=0&srcy=0&type=2", Cine Canal
 http://45.162.193.35/CINECANAL/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logosnicas.com/wp-content/uploads/2024/02/wtv_canal_20_nueva_guinea.png", WTV 
-https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S4H4XM5J/TodoC.png", Todo Cine
+https://amg00658-amg00658c94-canelatv-international-6085.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg00658-canelamediafast-todocineta-canelatvinternational/cb513a1665736c8884cd2164d3d3d591a65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600c66413e1ad67ad77f07a2df6ada146d20436be8f8b00ac79b1709b4d80a342ab07b0020fd050597634a32f8f90a04800ab07b2e1afc463b0565c3ee5fbd6e29bde477f76339d7f48634290a0f0cc40244f5c60be1bcb8021bc768bfb10c3bcd6d1abad75dc8d018a580ca5c9b468f68f0179f828dd48149ded38100f801e3260017772ecece2ac58b19e18ac36d6d9f747f0b4e57bff6deaf1f3ad70a415fa9fb86ed64fe43ca8a7cd76161eb03c224ee538666be7bc38b2c8e8ce1b328243aabd44b6055c38fc1daa14c59d767ebb2d6df66729dfa110a2ca304db23253d9cfc850092997ffcd5278ba01b7e52a1c11fecf7dd87eaa68449991ac6c6fa9f284349667666ec3fa78937b543bf71abbc7b4b3a64658fcb1893dca6345a775cb9904cdd051abac2f9f2b56135df6c1765fd73e64b1765da356f65bf5293ea2e658e2e1e960a35f454318550c3b12887ccb18c1234b1d18a41f661eaef47b89506a0694e1f68f7a27a5d431f7e88ba2b5e312a9508b0879ce73a0b54e9af80fa97026f03384e570f89b6e22aeee4ad280d06fe40326f6615288316da1bbb6a2b2e0f936eb9c4007284393534f6a24d39300eb8e98373e6bcb22c34d44ead875b1a081b0e883d0c326bd7f6be4dfc2c4e6d0825ea6d4a62cdcadedf88efa4cb96927ac6dc45a73d701d60c48a64298bafaa0178f7a067c54aa2b015bc88de59deadfe7a9b66e5c17372b0e9a604d6e89687760082a11d7e0df2827790247e955ebc41f962a3e1258ce4381c39927864c9fa548b7fda5248d05c8c42066ce37bbad3cdb6c1596fe883410983683fd21e7f793605b4d6d42b5535bcfc6fca54e8fe4df202753d3b55d18b041ed7be2c5caf183353fcf39dbefc8a2105c362f03aeb505187195f7bb19a68bfcde2a0abc94e075b99a1bd05fb809891c0d3fd237c206524d4940c02398b70b0c42cc9993050a3c987ecd16bd752e736b08bff6ed239b2d8b501a0dfc9b0ab3734564858f1c4b8ab408ff25a0bec2e8e146349cfd8a4d96af9d3b00238d95ce6841567e16b2d0a87f8ad76a541dfc7372ef588605da71663979a88547bfb25aa332773f68fed4334cdca03960dab9df80149866a47b2a73f9429d256e1c249e5d802639e9e6f9f75e568f5fba6/96/1920x1080_4362312/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2qP8WLw/Lider.png", Canal 5 El Líder
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
@@ -27,35 +27,14 @@ https://live.streamhch.com/live/streams/hch1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BH9V6yh4/Suyapa.png", Suyapa TV
 https://5f2c1b0d880e5.streamlock.net:443/suyapa2/videosuyapa2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nqLC43pp/AZATV.png", AZA TV
-https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8DxvMbQg/C21.png", Canal 21
-https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3Yh08swD/WOW.png", Wow TV
-https://cdn1.cef-technology.com/wow/wow_tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksf9y0tD/Agape.png", Agapetv 8
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8kJTZ3m/10.png", Canal 10
-https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://garabitotv.com/wp-content/uploads/2025/03/LOGO-GARABITO-TV-2048x1662.png", Garabito TV 
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w725293688.m3u8
-
-#EXTINF:-1 tvg-logo="https://grupojapradiotv.com/wp-content/uploads/2024/12/LOGO-CORAZON-TV-3-small.png", Corazón TV
-https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", USA Univision
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/99XyqpdH/Univision.png", USA Univision
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qv3pNJCQ/UniMas.png", UniMas East
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qv3pNJCQ/UniMas.png", UniMas West
-https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo East
 http://168.228.44.241:9997/play/a07g/index.m3u8
@@ -81,26 +60,14 @@ https://amg00658-amg00658c5-canelatv-international-7217.playouts.now.amagi.tv/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM67xDyb/CNN.png", CNN Español
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzvGrCpG/RT.png",RT En Español
-https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F25aac646-3806-4e44-b1aa-cd8e3407f3c3%2Fxitenuevolatino_logo_light_-_Arlette_FiranRDX.png", XITE Nuevo Latino
 https://jmp2.uk/stvp-USBD3300007PB
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S4BZqN7j/DW.png", DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27T4bL8p/Love-Nature-Espanol.png", Love Nature
 https://amg01515-blueskyeus-amg01515c17-lg-us-2347.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovenaturespanishnew2-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q31qy7Mz/imagen.png", Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
-
-#EXTINF:-1 tvg-logo="https://popcorncentraltv.com/wp-content/themes/freetvapp/img/logo.png", Popcorn Central
-https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6kTsRyw/TN.png", Todo Novelas Más Pasiones
-https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-todonovelasta-canelatvinternational/playlist.m3u8?rights_holder_id=todo-novelas-mas-pasiones&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=ccdaa45d-4cd8-411f-9a39-1171c6e1cae6&url=https://www.canela.tv/player/channel/todo-novelas-mas-pasiones&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
 
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F35a1d7e4-caa3-477a-b813-90d23a756a16%2Fxitesiemprelatino_logo_light_-_Arlette_FiranRDX.png", XITE Siempre Latino
 https://jmp2.uk/stvp-USBD3300010L9
@@ -129,20 +96,11 @@ https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQxr8TzJ/24h.png", 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMsq854D/FRANCE24.png", TV Frannce
-https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.cadenaelite.es/images/logoMenu.png", Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F0481d833-0e0b-4aba-88c4-56896b5991c9%2FCaracol_Mix_WHT_log.png", Caracol Mix
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69b34723983c968e9cdb2c86.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=kq9ybG6YtxKmzs_zkLWR
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ynb9k1hb/Latina.png", Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png", Cindie 
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt040&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=a3848042-d204d1c2-b14a913a-c06c2f0d&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nsHxJyV/Sony.png", Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
@@ -155,9 +113,6 @@ https://amg00658-amg00658c105-lg-us-7334.playouts.now.amagi.tv/playlist/amg00658
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S74wzd7Y/Adrenalina.png", Adrenalina Pura
 https://amg00740-sofa-amg00740c11-lg-mx-8923.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-freezonespanish-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S4H4XM5J/TodoC.png", Todo Cine
-https://amg00658-amg00658c94-canelatv-international-6085.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg00658-canelamediafast-todocineta-canelatvinternational/cb513a1665736c8884cd2164d3d3d591a65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600c66413e1ad67ad77f07a2df6ada146d20436be8f8b00ac79b1709b4d80a342ab07b0020fd050597634a32f8f90a04800ab07b2e1afc463b0565c3ee5fbd6e29bde477f76339d7f48634290a0f0cc40244f5c60be1bcb8021bc768bfb10c3bcd6d1abad75dc8d018a580ca5c9b468f68f0179f828dd48149ded38100f801e3260017772ecece2ac58b19e18ac36d6d9f747f0b4e57bff6deaf1f3ad70a415fa9fb86ed64fe43ca8a7cd76161eb03c224ee538666be7bc38b2c8e8ce1b328243aabd44b6055c38fc1daa14c59d767ebb2d6df66729dfa110a2ca304db23253d9cfc850092997ffcd5278ba01b7e52a1c11fecf7dd87eaa68449991ac6c6fa9f284349667666ec3fa78937b543bf71abbc7b4b3a64658fcb1893dca6345a775cb9904cdd051abac2f9f2b56135df6c1765fd73e64b1765da356f65bf5293ea2e658e2e1e960a35f454318550c3b12887ccb18c1234b1d18a41f661eaef47b89506a0694e1f68f7a27a5d431f7e88ba2b5e312a9508b0879ce73a0b54e9af80fa97026f03384e570f89b6e22aeee4ad280d06fe40326f6615288316da1bbb6a2b2e0f936eb9c4007284393534f6a24d39300eb8e98373e6bcb22c34d44ead875b1a081b0e883d0c326bd7f6be4dfc2c4e6d0825ea6d4a62cdcadedf88efa4cb96927ac6dc45a73d701d60c48a64298bafaa0178f7a067c54aa2b015bc88de59deadfe7a9b66e5c17372b0e9a604d6e89687760082a11d7e0df2827790247e955ebc41f962a3e1258ce4381c39927864c9fa548b7fda5248d05c8c42066ce37bbad3cdb6c1596fe883410983683fd21e7f793605b4d6d42b5535bcfc6fca54e8fe4df202753d3b55d18b041ed7be2c5caf183353fcf39dbefc8a2105c362f03aeb505187195f7bb19a68bfcde2a0abc94e075b99a1bd05fb809891c0d3fd237c206524d4940c02398b70b0c42cc9993050a3c987ecd16bd752e736b08bff6ed239b2d8b501a0dfc9b0ab3734564858f1c4b8ab408ff25a0bec2e8e146349cfd8a4d96af9d3b00238d95ce6841567e16b2d0a87f8ad76a541dfc7372ef588605da71663979a88547bfb25aa332773f68fed4334cdca03960dab9df80149866a47b2a73f9429d256e1c249e5d802639e9e6f9f75e568f5fba6/96/1920x1080_4362312/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F377dc2cb-53dd-4034-84e1-125be2b086c0%2F2WHITEaddictaTV_Logo_Transparency-Backgroud-Official-Brand_1500x1000px.png", Addicta TV
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69d6d88b1790acff6189dea5.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=A7nt7__u68bHM8_cz2K9
