@@ -1,13 +1,7 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bffc537d-17b1-465d-ab34-d477223ac142/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9iZmZjNTM3ZC0xN2IxLTQ2NWQtYWIzNC1kNDc3MjIzYWMxNDIvZGNucmZqbi00NzYzY2I1NS02ODMwLTRlYzQtYjZkZS04MTQ5MWMwYjE2MGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.omuRTEZpAlo0azpIsTYI6vJOes2A4gsgcDvcIhm6ics", AXN 
-http://177.234.249.178:8888/AXN/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wN3HXZbn/Cinepolis.png", Cinepolis
 https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-cinepolislt-lgmx/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2024/09/LOGO-SELLO-PANTALLA-GRANDE-1600x900.png", TV Latina
-https://master.tucableip.com/tvlatina/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TSWslSAFLfv5dJG_JkCMhFpr9GzQicqNlO8uMo3h02e4i6fKbxV8gbi3SbdFePRDDSY", Quiero TV
 https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
