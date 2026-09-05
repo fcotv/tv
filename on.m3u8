@@ -6,9 +6,6 @@ https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png", Cindie 
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt040&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=a3848042-d204d1c2-b14a913a-c06c2f0d&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-logo="https://campa-cach05.onetv.tigo.com/scalimgdlvry/ReporTV/49673683.png?dsth=630&dstw=1200&quality=65&srch=240&srcmode=0&srcw=426&srcx=0&srcy=0&type=2", Cine Canal
-http://45.162.193.35/CINECANAL/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4H4XM5J/TodoC.png", Todo Cine
 https://amg00658-amg00658c94-canelatv-international-6085.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg00658-canelamediafast-todocineta-canelatvinternational/cb513a1665736c8884cd2164d3d3d591a65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600c66413e1ad67ad77f07a2df6ada146d20436be8f8b00ac79b1709b4d80a342ab07b0020fd050597634a32f8f90a04800ab07b2e1afc463b0565c3ee5fbd6e29bde477f76339d7f48634290a0f0cc40244f5c60be1bcb8021bc768bfb10c3bcd6d1abad75dc8d018a580ca5c9b468f68f0179f828dd48149ded38100f801e3260017772ecece2ac58b19e18ac36d6d9f747f0b4e57bff6deaf1f3ad70a415fa9fb86ed64fe43ca8a7cd76161eb03c224ee538666be7bc38b2c8e8ce1b328243aabd44b6055c38fc1daa14c59d767ebb2d6df66729dfa110a2ca304db23253d9cfc850092997ffcd5278ba01b7e52a1c11fecf7dd87eaa68449991ac6c6fa9f284349667666ec3fa78937b543bf71abbc7b4b3a64658fcb1893dca6345a775cb9904cdd051abac2f9f2b56135df6c1765fd73e64b1765da356f65bf5293ea2e658e2e1e960a35f454318550c3b12887ccb18c1234b1d18a41f661eaef47b89506a0694e1f68f7a27a5d431f7e88ba2b5e312a9508b0879ce73a0b54e9af80fa97026f03384e570f89b6e22aeee4ad280d06fe40326f6615288316da1bbb6a2b2e0f936eb9c4007284393534f6a24d39300eb8e98373e6bcb22c34d44ead875b1a081b0e883d0c326bd7f6be4dfc2c4e6d0825ea6d4a62cdcadedf88efa4cb96927ac6dc45a73d701d60c48a64298bafaa0178f7a067c54aa2b015bc88de59deadfe7a9b66e5c17372b0e9a604d6e89687760082a11d7e0df2827790247e955ebc41f962a3e1258ce4381c39927864c9fa548b7fda5248d05c8c42066ce37bbad3cdb6c1596fe883410983683fd21e7f793605b4d6d42b5535bcfc6fca54e8fe4df202753d3b55d18b041ed7be2c5caf183353fcf39dbefc8a2105c362f03aeb505187195f7bb19a68bfcde2a0abc94e075b99a1bd05fb809891c0d3fd237c206524d4940c02398b70b0c42cc9993050a3c987ecd16bd752e736b08bff6ed239b2d8b501a0dfc9b0ab3734564858f1c4b8ab408ff25a0bec2e8e146349cfd8a4d96af9d3b00238d95ce6841567e16b2d0a87f8ad76a541dfc7372ef588605da71663979a88547bfb25aa332773f68fed4334cdca03960dab9df80149866a47b2a73f9429d256e1c249e5d802639e9e6f9f75e568f5fba6/96/1920x1080_4362312/index.m3u8
 
@@ -37,7 +34,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0cs9Hvz/Telemundo.png", Telemundo East
-http://168.228.44.241:9997/play/a07g/index.m3u8
+http://170.254.17.2/TELEMUNDO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Latino
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
