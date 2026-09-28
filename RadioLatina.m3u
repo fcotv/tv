@@ -1,10 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="", loca 
+#EXTINF:-1 tvg-logo="",Loca - Shakira
 https://ia803200.us.archive.org/23/items/shakira-se-escribe-con-n-2010_202606/01%20Loca%20%28feat.%20El%20Cata%29.mp3
-#EXTINF:-1 tvg-logo="", Matalas
+#EXTINF:-1 tvg-logo="",Matalas - Alejandro Fernandez
 https://dn721608.ca.archive.org/0/items/chekate.net_alejandro-fernandez_/Matalas%20-Alejandro%20Fernandez.mp3
-#EXTINF:-1 tvg-logo="https://ia600102.us.archive.org/17/items/bad-bunny-un-verano-sin-ti-album/Bad-Bunny-Un-Verano-Sin-Ti.jpg", Titi me Pregunto 
+#EXTINF:-1 tvg-logo="", Titi me Pregunto - Bad Bunny
 https://ia600102.us.archive.org/17/items/bad-bunny-un-verano-sin-ti-album/04.%20Bad%20Bunny%20-%20Tit%C2%B0%20Me%20Pregunt%C2%A2.mp3
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000124282623-sujsjh-t500x500.jpg", Flor Palida
+#EXTINF:-1 tvg-logo="", Flor Palida - Marc Anthony
 https://dn721509.ca.archive.org/0/items/marc-anthony-flor-palida-letra-lyrics/Marc%20Anthony%20-%20Flor%20P%C3%A1lida%20%28LetraLyrics%29.mp3
+#EXTINF:-1 tvg-logo="",Reggaeton Lente CNCO
+https://ia903108.us.archive.org/29/items/cnco-reggaeton-lento-bailemos/CNCO%20-%20Reggaet%C3%B3n%20Lento%20%28Bailemos%29.mp3
+#EXTINF:-1 tvg-logo="",Mas Macarena - Gente de Zona y Los del Rio
+https://ia600709.us.archive.org/15/items/mas-macarena/Mas%20Macarena.mp3
+#EXTINF:-1 tvg-logo="",
