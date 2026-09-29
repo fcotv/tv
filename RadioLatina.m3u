@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",EL BAÑO - Enrique iglesias (Bad Bunny)
 https://ia903108.us.archive.org/9/items/el-ban-o_20260929/EL%20BA%C3%91O.mp3
-#EXTINF:-1 tvg-logo="https://resources.tidal.com/images/5a8a3475/ded1/4488/971b/8f6c30a99d91/1280x1280.jpg",DÁKITI‐Bad Bunny 
-
 #EXTINF:-1 tvg-logo="https://resources.tidal.com/images/cb026d70/d1a6/467b/bc78/829b0f99b416/640x640.jpg",Loca - Shakira
 https://ia800603.us.archive.org/13/items/loca_20260928_202609/Loca.mp3
 #EXTINF:-1 tvg-logo="https://resources.tidal.com/images/0d59558e/ad84/4924/aa86/a6144549b407/1280x1280.jpg", Titi me Pregunto - Bad Bunny
-https://ia600403.us.archive.org/25/items/titi-me-pregunto_202609/Tit%C3%AD%20Me%20Pregunt%C3%B3.mp3
+https://ia600906.us.archive.org/27/items/titi-me-pregunto_20260929/Tit%C3%AD%20Me%20Pregunt%C3%B3.mp3
 #EXTINF:-1 tvg-logo="https://resources.tidal.com/images/7baf4cb4/86ed/4c1c/863b/f291600d157e/1280x1280.jpg", Flor Palida - Marc Anthony
 https://ia903102.us.archive.org/19/items/flor-palida_202609/Flor%20P%C3%A1lida.mp3
 #EXTINF:-1 tvg-logo="https://resources.tidal.com/images/8eb3ef94/121a/4291/855f/b4170eae7bee/640x640.jpg",Reggaeton Lento CNCO
@@ -31,5 +29,8 @@ https://ia601000.us.archive.org/21/items/sopa-de-caracol_202609/Sopa%20de%20Cara
 https://ia600907.us.archive.org/30/items/gabriel-pagan-wilfrido-vargas-el-africano/Gabriel%20Pagan%20%26%20Wilfrido%20Vargas%20-%20El%20Africano.mp3
 #EXTINF:-1 tvg-logo="", Bachata en Fukuoka - Juan Luis Guerra 440
 https://ia600807.us.archive.org/2/items/bachata-en-fukuoka/Bachata%20en%20Fukuoka.mp3
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://resources.tidal.com/images/5a8a3475/ded1/4488/971b/8f6c30a99d91/1280x1280.jpg",DÁKITI‐Bad Bunny 
+https://ia600601.us.archive.org/16/items/da-kiti_202609/D%C3%81KITI.mp3
+#EXTINF:-1 tvg-logo="https://resources.tidal.com/images/25589a22/88f8/487a/82b5/b7623688279a/640x640.jpg", Azul- J Balvin
+https://ia601603.us.archive.org/35/items/j-balvin-azul_202609/J%20Balvin%20-%20Azul.mp3
 
