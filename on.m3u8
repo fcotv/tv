@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tPQfX4bV/Estrellas.png", Las Estrellas 
+#EXTINF:-1 tvg-logo="https://ia600102.us.archive.org/28/items/estrellas_202609/Estrellas.png", Las Estrellas 
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F377dc2cb-53dd-4034-84e1-125be2b086c0%2F2WHITEaddictaTV_Logo_Transparency-Backgroud-Official-Brand_1500x1000px.png", Addicta TV
