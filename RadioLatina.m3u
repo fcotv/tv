@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://resources.tidal.com/images/0b3b691c/ecca/4fc5/aebe/cbee5e0d4291/640x640.jpg",Felices Los 4 - Maluma
+https://ia600504.us.archive.org/0/items/felices-los-4/Felices%20los%204.mp3
 #EXTINF:-1 tvg-logo="https://static.qobuz.com/images/covers/v1/vu/cv1iz57k7vuv1_600.jpg",Bby Wow - Karol G
 https://ia601904.us.archive.org/11/items/karol-g-bb-y-wow/KAROL%20G%20-%20BbY%20WOW.mp3
 #EXTINF:-1 tvg-logo="https://static.qobuz.com/images/covers/oa/rk/e5no7qcqbrkoa_600.jpg",Yo no se Mañana - Luis Enrique 
@@ -43,5 +45,10 @@ https://ia601603.us.archive.org/35/items/j-balvin-azul_202609/J%20Balvin%20-%20A
 https://ia600704.us.archive.org/11/items/vivir-lo-nuestro_202609/Vivir%20Lo%20Nuestro.mp3
 #EXTINF:-1 tvg-logo="https://resources.tidal.com/images/55b2bcae/8e9e/4ec2/9845/d1f83e2ff61c/640x640.jpg",DESPECHÁ - ROSALÍA
 https://ia600602.us.archive.org/27/items/rosali-a-despecha_202609/ROSAL%C3%8DA%20-%20DESPECH%C3%81.mp3
+#EXTINF:-1 tvg-logo="https://resources.tidal.com/images/9d971196/75f1/48f7/b5d6/5e5eae9779e9/640x640.jpg", Rebelión - Joe Arroyo Y La Verdad
+https://ia600602.us.archive.org/35/items/joe-arroyo-y-la-verdad-rebelion/Joe%20Arroyo%20Y%20La%20Verdad%20-%20Rebelion.mp3
+#EXTINF:-1 tvg-logo="",Rica y Apretadita - El General / Anayka
+https://ia903102.us.archive.org/34/items/rica-y-apretadita/Rica%20y%20Apretadita.mp3
+
 
 
