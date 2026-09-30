@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://static.qobuz.com/images/covers/v1/vu/cv1iz57k7vuv1_600.jpg",Bby Wow - Karol G
+https://ia601904.us.archive.org/11/items/karol-g-bb-y-wow/KAROL%20G%20-%20BbY%20WOW.mp3
+#EXTINF:-1 tvg-logo="https://static.qobuz.com/images/covers/oa/rk/e5no7qcqbrkoa_600.jpg",Yo no se Mañana - Luis Enrique 
+https://ia601909.us.archive.org/32/items/luis-enrique-yo-no-se-manana_202609/Luis%20Enrique%20-%20Yo%20No%20S%C3%A9%20Ma%C3%B1ana.mp3
 #EXTINF:-1 tvg-logo="https://resources.tidal.com/images/bef9e58d/ad6b/498d/bdc3/125512928970/640x640.jpg",EL BAÑO - Enrique iglesias (Bad Bunny)
 https://ia903108.us.archive.org/9/items/el-ban-o_20260929/EL%20BA%C3%91O.mp3
 #EXTINF:-1 tvg-logo="https://resources.tidal.com/images/cb026d70/d1a6/467b/bc78/829b0f99b416/640x640.jpg",Loca - Shakira
@@ -15,8 +19,8 @@ https://ia600404.us.archive.org/34/items/mas-macarena-feat.-los-del-rio/M%C3%A1s
 https://ia600605.us.archive.org/15/items/bailando_202609/Bailando.mp3
 #EXTINF:-1 tvg-logo="https://resources.tidal.com/images/740fba99/790d/4997/b7ba/99ba7a2ac44e/1280x1280.jpg",Verano Azul- Juan Magan
 https://ia601003.us.archive.org/31/items/verano-azul_20260929/Verano%20Azul.mp3
-#EXTINF:-1 tvg-logo="https://resources.tidal.com/images/511a1d79/34ed/4865/bf52/c741e6cc5aaf/640x640.jpg",La Bicicleta - Skakira / Carlos Vives
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51tb2XEw--L._UX420_FMwebp_QL85_.jpg",La Bicicleta - Skakira / Carlos Vives
+https://ia600105.us.archive.org/35/items/carlos-vives-la-bicicleta/Carlos%20Vives%20-%20La%20Bicicleta.mp3
 #EXTINF:-1 tvg-logo="https://resources.tidal.com/images/7869792e/6cbe/4764/b3e2/450c79f9108b/1280x1280.jpg", Carita Bonita - Erre VI
 https://ia600704.us.archive.org/13/items/carita-bonita_202609/Carita%20Bonita.mp3
 #EXTINF:-1 tvg-logo="https://resources.tidal.com/images/e15cdeb0/e62f/4042/a5ff/047278a4959e/1280x1280.jpg", Duro y Suave - Leslie Grace / Noriel
