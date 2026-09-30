@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://resources.tidal.com/images/b71f5ce2/4953/4c33/bf7a/a67d6913be49/640x640.jpg", Que Vuelvas - Carin Leon
+https://ia600506.us.archive.org/34/items/que-vuelvas/Que%20Vuelvas.mp3
+#EXTINF:-1 tvg-logo="https://resources.tidal.com/images/fc5f72d0/9d48/4bf2/aec4/d3f1c8d75acc/640x640.jpg",La Sinvergüenza - Christian Nodal / Banda MS
+https://ia601601.us.archive.org/18/items/la-sinverguenza/La%20Sinverg%C3%BCenza.mp3
 #EXTINF:-1 tvg-logo="https://resources.tidal.com/images/0b3b691c/ecca/4fc5/aebe/cbee5e0d4291/640x640.jpg",Felices Los 4 - Maluma
 https://ia600504.us.archive.org/0/items/felices-los-4/Felices%20los%204.mp3
 #EXTINF:-1 tvg-logo="https://static.qobuz.com/images/covers/v1/vu/cv1iz57k7vuv1_600.jpg",Bby Wow - Karol G
