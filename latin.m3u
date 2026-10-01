@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/12/items/ojitos-hechiceros/Ojitos.jpg",Ojitos Hechiceros - La Sonora Dinamita 
+https://ia601402.us.archive.org/12/items/ojitos-hechiceros/Ojitos%20Hechiceros.mp3
+#EXTINF:-1 tvg-logo="",Nieve en Verano - Manny Cruz / Juan Luis Guerra 
+https://ia600907.us.archive.org/31/items/nieve-en-verano/Nieve%20en%20Verano.mp3
 #EXTINF:-1 tvg-logo="https://resources.tidal.com/images/df0660d7/d849/4a13/8539/64f16aea219a/640x640.jpg",Se Parece Al Pai - Guaynaa
 https://ia903200.us.archive.org/8/items/se-parece-al-pai/Se%20Parece%20Al%20Pai.mp3
 #EXTINF:-1 tvg-logo="https://resources.tidal.com/images/a90c4906/44d0/47f9/9e87/4e8593359843/640x640.jpg",Volveré ‐ Ovy On The Drums / Manuel Turizo
