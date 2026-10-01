@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://ia903208.us.archive.org/30/items/muevelo-pa-mi/Muevelo.jpg", Muevelo Pa Mi - Wisin / Kapo
+https://ia903208.us.archive.org/30/items/muevelo-pa-mi/Muevelo%20pa%20Mi.mp3
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/12/items/ojitos-hechiceros/Ojitos.jpg",Ojitos Hechiceros - La Sonora Dinamita 
 https://ia601402.us.archive.org/12/items/ojitos-hechiceros/Ojitos%20Hechiceros.mp3
 #EXTINF:-1 tvg-logo="",Nieve en Verano - Manny Cruz / Juan Luis Guerra 
