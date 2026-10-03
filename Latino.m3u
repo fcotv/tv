@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,La Punta - Aisack
 https://dn711507.ca.archive.org/0/items/punta-aisack/La%20Punta.mp3
-#EXTINF:
-
+#EXTINF:-1,SA SA SA (sa Sa Sa) - Henry Mendez
+https://ia903208.us.archive.org/1/items/sa-sa-sa-sa-sa-sa/SA%20SA%20SA%20%28sa%20sa%20sa%29.mp3
 #EXTINF:-1 tvg-logo="https://ia601009.us.archive.org/3/items/zeta_20261002/ZUMBA.jpg",Zeta - Nacho 
 https://ia601009.us.archive.org/3/items/zeta_20261002/Nacho%20-%20Zeta.mp3
 #EXTINF:-1 tvg-logo="https://ia903104.us.archive.org/28/items/somos-latinos/Latinos.jpg",Somos Latinos - Play-N-Skillz / Gente De Zona, Dale Pututi 
@@ -111,8 +111,8 @@ https://ia600602.us.archive.org/35/items/joe-arroyo-y-la-verdad-rebelion/Joe%20A
 https://ia600704.us.archive.org/11/items/vivir-lo-nuestro_202609/Vivir%20Lo%20Nuestro.mp3
 #EXTINF:-1 tvg-logo="https://resources.tidal.com/images/df0660d7/d849/4a13/8539/64f16aea219a/640x640.jpg",Se Parece Al Pai - Guaynaa
 https://ia903200.us.archive.org/8/items/se-parece-al-pai/Se%20Parece%20Al%20Pai.mp3
-#EXTINF:-1 tvg-logo="https://ia601805.us.archive.org/32/items/fiesta_202610/Fiesta.jpg",Fiesta - Tito Nieves / David Kada 
-https://ia601805.us.archive.org/32/items/fiesta_202610/Fiesta.mp3
+#EXTINF:-1,Fiesta - Tito Nieves / David Kada 
+https://dn720003.ca.archive.org/0/items/fiesta-Tito/Fiesta.mp3
 
 
 
