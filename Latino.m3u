@@ -1,5 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",
+#EXTINF: La Punta - Aisack
+https://dn711507.ca.archive.org/0/items/punta-aisack/La%20Punta.mp3
+#EXTINF:
+
 #EXTINF:-1 tvg-logo="https://ia601009.us.archive.org/3/items/zeta_20261002/ZUMBA.jpg",Zeta - Nacho 
 https://ia601009.us.archive.org/3/items/zeta_20261002/Nacho%20-%20Zeta.mp3
 #EXTINF:-1 tvg-logo="https://ia903104.us.archive.org/28/items/somos-latinos/Latinos.jpg",Somos Latinos - Play-N-Skillz / Gente De Zona, Dale Pututi 
