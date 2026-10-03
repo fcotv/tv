@@ -1,6 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",
-https://ia801803.us.archive.org/8/items/right-here-waiting_202610/right-here-waiting_202610_vbr.m3u
+#EXTINF:-1 tvg-logo="https://ia601805.us.archive.org/3/items/love-on-the-brain_202610/Brain.jpg",Love On The Brain - Rihanna
+https://ia601805.us.archive.org/3/items/love-on-the-brain_202610/Love%20On%20The%20Brain.flac
+#EXTINF:-1 tvg-logo="https://dn711601.ca.archive.org/0/items/ed-sheeran-perfect_202610/Ed.jpg",Perfect - Ed Sheeran 
+https://dn711601.ca.archive.org/0/items/ed-sheeran-perfect_202610/Ed%20Sheeran%20-%20Perfect.flac
+#EXTINF:-1 tvg-logo="https://ia800105.us.archive.org/11/items/chandelier_202610/Sia.jpg",Chandelier - Sia
+https://dn721804.ca.archive.org/0/items/chandelier_202610/Chandelier.flac
+#EXTINF:-1 tvg-logo="https://dn710107.ca.archive.org/0/items/hey-soul-sister_202610/Train.jpg",Hey, Soul Sister - Train
+https://dn710107.ca.archive.org/0/items/hey-soul-sister_202610/Hey%2C%20Soul%20Sister.flac
+#EXTINF:-1 tvg-logo="https://dn710201.ca.archive.org/0/items/set-fire-to-the-rain_202610/Fire.jpg",Set Fire To The Rain - Adele
+https://dn710201.ca.archive.org/0/items/set-fire-to-the-rain_202610/Set%20Fire%20to%20the%20Rain.flac
+#EXTINF:-1 tvg-logo="https://dn710903.ca.archive.org/0/items/die-with-a-smile_202610/Smile.jpg",Die With A Smile - Lady Gaga / Bruno
+https://dn710903.ca.archive.org/0/items/die-with-a-smile_202610/Die%20With%20A%20Smile.flac
 #EXTINF:-1 tvg-logo="https://archive.org/download/how-deep-is-your-love_202610/Blanket.png",How Deep Is Your Love - Bee Gees 
 https://dn711304.ca.archive.org/0/items/how-deep-is-your-love_202610/How%20Deep%20Is%20Your%20Love.flac
 #EXTINF:-1 tvg-logo="https://ia600602.us.archive.org/24/items/i-just-called-to-say-i-love-you_202610/Wonder.jpg",I Just Called To Say I Love You - Estevie Wonder 
