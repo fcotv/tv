@@ -1,5 +1,7 @@
 #EXTM3U
 SALSA
+#EXTINF:-1, Tú Con Él / Rauw Alejandro
+https://ia800802.us.archive.org/34/items/tu-con-el_202610/T%C3%BA%20Con%20%C3%89l.mp3
 #EXTINF:-1,Se Parece Al Pai / Guaynaa
 https://ia601800.us.archive.org/17/items/SePareceAlPaiG/Se%20Parece%20Al%20Pai.mp3
 BACHATAS
@@ -51,12 +53,9 @@ https://dn721804.ca.archive.org/0/items/tuloca-NATTI/Tu%20Loca.mp3
 #EXTINF:-1, Amiga Mía / Karol G 
 https://dn721903.ca.archive.org/0/items/amiga-miaKAROLG/Amiga%20M%C3%ADa.mp3
 
-#EXTINF:-1, Tú Con Él / Rauw Alejandro
-https://ia800802.us.archive.org/34/items/tu-con-el_202610/T%C3%BA%20Con%20%C3%89l.mp3
 #EXTINF:-1,Fiesta / Tito Nieves (David Kada)
 https://dn720003.ca.archive.org/0/items/fiesta-Tito/Fiesta.mp3
-#EXTINF:-1, Amor Narcótico /  Chichí Peralta
-https://ia600409.us.archive.org/33/items/amor-narcotico/Amor%20Narc%C3%B3tico.mp3
+
 #EXTINF:-1, Konga / KYEN?ES?; Maffio 
 https://ia903102.us.archive.org/10/items/kongakyen/Konga.mp3
 #EXTINF:-1, El Africano / Gabriel Pagan; Wilfrido Vargas
@@ -100,7 +99,9 @@ https://ia601001.us.archive.org/5/items/carameloAlq/Caramelo.mp3
 #EXTINF:-1, Lluvia / Eddie Santiago
 https://dn721808.ca.archive.org/0/items/lluvia_202610/Lluvia.mp3
 #EXTINF:-1,Persona Ideal / Adolescent's  Orquesta
-https://dn720003.ca.archive.org/0/items/persona-ideal/Persona%20Ideal.mp3
+
+#EXTINF:-1, Amor Narcótico /  Chichí Peralta
+https://ia600409.us.archive.org/33/items/amor-narcotico/Amor%20Narc%C3%B3tico.mp3
 #EXTINF:-1,La Magia De Tus Besos / Grupo  Niche 
 https://dn711201.ca.archive.org/0/items/la-magia-de-tus-besos/La%20Magia%20de%20Tus%20Besos.mp3
 #EXTINF:-1,Una Vida Pasada / Camilo; Carín León
