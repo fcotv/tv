@@ -1,5 +1,5 @@
 #EXTM3U
-SALSA
+
 #EXTINF:-1,De Qué Manera / Mike Bahía
 https://ia600900.us.archive.org/4/items/de-que-manera/De%20Qu%C3%A9%20Manera.mp3
 #EXTINF:-1,Toda Una Vida / Leoni Torres
@@ -10,7 +10,9 @@ https://ia800802.us.archive.org/34/items/tu-con-el_202610/T%C3%BA%20Con%20%C3%89
 https://ia601800.us.archive.org/17/items/SePareceAlPaiG/Se%20Parece%20Al%20Pai.mp3
 #EXTINF:-1,Una Vida Pasada / Camilo; Carín León
 https://dn710900.ca.archive.org/0/items/una-vida-pasada/Una%20Vida%20Pasada.mp3
-BACHATAS
+#EXTINF:-1,Fiesta / Tito Nieves (David Kada)
+https://dn720003.ca.archive.org/0/items/fiesta-Tito/Fiesta.mp3
+
 #EXTINF:-1, Ay! San Miguel / Romeo Santos ft. Prince Royce 
 https://ia903204.us.archive.org/10/items/ay-san-miguel/Ay%21%20San%20Miguel.mp3
 #EXTINF:-1, Mi Pecadito / Mike Bahía / Greeicy
@@ -58,9 +60,6 @@ https://dn711100.ca.archive.org/0/items/howdeepisyl/How%20Deep%20Is%20Your%20Lov
 https://dn721804.ca.archive.org/0/items/tuloca-NATTI/Tu%20Loca.mp3
 #EXTINF:-1, Amiga Mía / Karol G 
 https://dn721903.ca.archive.org/0/items/amiga-miaKAROLG/Amiga%20M%C3%ADa.mp3
-
-#EXTINF:-1,Fiesta / Tito Nieves (David Kada)
-https://dn720003.ca.archive.org/0/items/fiesta-Tito/Fiesta.mp3
 
 #EXTINF:-1, Konga / KYEN?ES?; Maffio 
 https://ia903102.us.archive.org/10/items/kongakyen/Konga.mp3
