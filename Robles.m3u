@@ -1,5 +1,12 @@
 #EXTM3U
-
+#EXTINF:-1,Duele ( Crazy) / Kalimba
+https://ia801608.us.archive.org/11/items/duele-crazy/Duele%20%28Crazy%29.flac
+#EXTINF:-1,Ojos Noche / Elsa y El Mar 
+https://ia800101.us.archive.org/35/items/ojos-nocheelsa/Ojos%20Noche.flac
+#EXTINF:-1,20 De Enero / La Oreja de Van Gogh
+https://dn711600.ca.archive.org/0/items/20deeneroOV/20%20de%20Enero.flac
+#EXTINF:-1,Mi Soledad Y Yo / Alejandro Sanz
+https://ia800801.us.archive.org/13/items/mi-soledad-y-yo/Mi%20soledad%20y%20yo.flac
 #EXTINF:-1,Laura No Està / Nek
 https://ia600902.us.archive.org/23/items/laura-no-esta/Laura%20no%20est%C3%A0.flac
 #EXTINF:-1,Corazón De Melao / Emmanuel  
@@ -11,10 +18,10 @@ https://ia903106.us.archive.org/22/items/volverte-a-amar/Volverte%20a%20Amar.fla
 #EXTINF:-1, La Perla / ROSALÍA 
 https://ia800802.us.archive.org/2/items/la-perla/La%20Perla.flac
 #EXTINF:-1, Inolvidable / Laura Pausini
-https://dn721802.ca.archive.org/0/items/inolvidableLP/Inolvidable.flac
+https://ia600508.us.archive.org/15/items/inolvidablelaura/Inolvidable.flac
 #EXTINF:-1,Love On The Brain / Rihanna
 https://ia601805.us.archive.org/3/items/love-on-the-brain_202610/Love%20On%20The%20Brain.flac
-#EXTINF:-1 tvg-logo="https://dn711601.ca.archive.org/0/items/ed-sheeran-perfect_202610/Ed.jpg",Perfect - Ed Sheeran 
+#EXTINF:-1,Perfect - Ed Sheeran 
 https://dn711601.ca.archive.org/0/items/ed-sheeran-perfect_202610/Ed%20Sheeran%20-%20Perfect.flac
 #EXTINF:-1 tvg-logo="https://ia800105.us.archive.org/11/items/chandelier_202610/Sia.jpg",Chandelier - Sia
 https://dn721804.ca.archive.org/0/items/chandelier_202610/Chandelier.flac
