@@ -27,7 +27,7 @@ https://dn711601.ca.archive.org/0/items/ed-sheeran-perfect_202610/Ed%20Sheeran%2
 https://dn721804.ca.archive.org/0/items/chandelier_202610/Chandelier.flac
 #EXTINF:-1 tvg-logo="https://dn710107.ca.archive.org/0/items/hey-soul-sister_202610/Train.jpg",Hey, Soul Sister - Train
 https://dn710107.ca.archive.org/0/items/hey-soul-sister_202610/Hey%2C%20Soul%20Sister.flac
-#EXTINF:-1 tvg-logo="https://dn710201.ca.archive.org/0/items/set-fire-to-the-rain_202610/Fire.jpg",Set Fire To The Rain - Adele
+#EXTINF:-1,Set Fire To The Rain - Adele
 https://dn710201.ca.archive.org/0/items/set-fire-to-the-rain_202610/Set%20Fire%20to%20the%20Rain.flac
 #EXTINF:-1 tvg-logo="https://dn710903.ca.archive.org/0/items/die-with-a-smile_202610/Smile.jpg",Die With A Smile - Lady Gaga / Bruno
 https://dn710903.ca.archive.org/0/items/die-with-a-smile_202610/Die%20With%20A%20Smile.flac
@@ -54,5 +54,6 @@ https://ia801804.us.archive.org/8/items/dejala_202610/D%C3%A9jala.flac
 https://ia600104.us.archive.org/2/items/juntoskunob/Juntos%20%28feat.%20Kuno%20Becker%29.flac
 #EXTINF:-1,Seré / José José 
 https://ia903204.us.archive.org/26/items/serejj/Ser%C3%A9.flac
-
+#EXTINF:-1,Estrechez De Corazón / Los Prisioneros
+https://ia600807.us.archive.org/17/items/estrechez-de-corazon/Estrechez%20De%20Coraz%C3%B3n.flac
 
