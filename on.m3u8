@@ -42,7 +42,8 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qv3pNJCQ/UniMas.png", UniMas East
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png",Galavision 
+https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27FVXhp9/Vevo.png", VEVO Latino
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 
@@ -198,5 +199,5 @@ https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1,Barriga de Aluguel Cap.1
 https://ipv4.pluto.tv/api/tn/video/playout/v2/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?includeExtendedEvents=true&us_privacy=1YNN&gpp=DBABLA~CVQqAAAAAABY%2EQA&gpp_sid=7&CMCD=mtp%3D9600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22a4cf43c2-b69a-4d82-9193-2be23d3c6669%22%2Csu&paln=AQzzBGQEVpmSpCdFJ_bpxfeIcKcBqMs8bI80thMNlWGB7SCcbCAoEtkVdj_moTKZteJPvton_p4OfiVAnONkYhdaeZjEVE5KsDI43qK3oWaRRyVJVOJa1LTo5aLtY2QieMe2weqUnKZdtRi4uMGfymDtLG9fZNhaqGQJmT0yszoajeNpUqmbMw_wCCmPJvX184FM8EFbt9YWwLY32eO_cBbm2-Q9xQAFYR18VQMPGFlMcPm-GXCHXeFDlhdGhiOKBynYofSMgh1oHm17w_3z2j5x_CLxo9sznBX5AvDf-0rPxvvcTWk3uaWXs5pOGNg9AhagUnB2IlJnOs9bq5boMR_Ds1RjboPLaEk0ystZlPWrnOFTvRKveWJKZ289MK5xghdsDvKLLUb18o1AA0UDKDzHMd2CQFRO07n4lFw6YqtcwvW8WZ-yZH5ugstC8bhRKPjjbXDXV6cn3iUakTjBFB28Sbbof9yafXNJDJkorU_QAE-rZDjpTymE-4MCxug9yjynN6TthqYDzrhUCLvLOuLwjbdrkx57NeTCBSaKJPaDdsukBc6zF4NXN8D_6-lfH02O0r6VD-eyprLuHF3N6g4v40VF3BQmI_kCSTounDFcpN4MgKqREFPnGJkKwIJODIhC2UpAScwBqczjMPMK1Nl3tyoepkmybOWUtAm4amWU47qCbGNdWIaMj8bNVpCqN3qVw2gUO_aykc6zwP6bYnOr58uXiaxH_7xHCbyadrGEnyWOI3RyYL6j8Dts0pd5xxetdHENC6CDk6vfMCrrwrGDbVs2I-0tDPD23lgnEED91Es-C8E-BYhCC4wN4wyTHSvOF8HCoDA_4PVBik1uUGCmJnNvPbKqwt9iXDuX__AQY6oIdmlakuTvFcSel6n-MhbImpR7zZLzMIesgNMwHXc0K_TpT13vIbP53FqO_c7FlmNXTuXjF66yYYh8Po1j1UgM5D9t3odfCI7O5BnrlDeCRO_6ZNqtkK0IDeCTn0xOIJ9o39Rh6n811Tey-AD-_2uvy5qeyw7yo_8HOiy6EGRBCwtZkzb7lU2AcaBhDTNQPWG9EzYCUvwkH_MllpZfTUw4qZLPzFnZLBd8xppdciyDE4pAdRMfeUYdbJR6XB5t09belKDODdOhftCVGFTueW-cMDM1cjd7Yaj3R1-gGRsQQb8dixfBjHchoHf6UmZ8gtfHXnOkOksWAQlGaSdCsrQC5jUwPyep3_hABKXqFsycadCEw4Kky9e0s-2XJFBfLYfNQM7LgTBuW1N6rMYHfDXaIcQZ4CNnmteXdxmRlIBnfN1ZVv4ezKMZN84PmPJwzeJmV-vG
 
-#EXTINF:-1,Barriga de Aluguel Cap.1
-https://ipv4.pluto.tv/api/tn/video/playout/v2/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8
+
+
