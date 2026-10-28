@@ -190,10 +190,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqphT7pL/Comedy.png", Free Comedy Network 
 https://amg00346-amg00346c25-amgplt0022.playout.now3.amagi.tv/playlist/amg00346-amg00346c25-amgplt0022/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zH0KZv4H/MovieS.png", Movie Sphere by LionsGate
+#EXTINF:-1 tvg-logo="https://ia903206.us.archive.org/6/items/movie-s/MovieS.png",Movie Sphere by LionsGate
 https://amg00353-lionsgatestudios-amg00353c2-vizio-us-801.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-vizious/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vvXGWCCC/24Movies.png", 24 Hours Movies
+#EXTINF:-1 tvg-logo="https://ia600705.us.archive.org/26/items/24-movies/24Movies.png", 24 Hours Movies
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 
 
