@@ -1,10 +1,11 @@
 #EXTM3U 
 
 #EXTINF:-1, 3 A.M Jessie & Joy ft Gente De Zona
-
-#EXTINF:-1 tvg-logo="https://resources.tidal.com/images/22681efc/abcc/4ac9/8b4f/0640ce892c6b/640x640.jpg",Mas Que Tu Amigo 
-https://ia601804.us.archive.org/1/items/mas-que-tu-amigo_202611/M%C3%A1s%20Que%20Tu%20Amigo.mp3
-#EXTINF:-1,ASI ES LA VIDA / Enrique Iglesias ft. Maria Becerra 
+#EXTVLCOPT:arturl=https://resources.tidal.com/images/edb1da8b/ecb8/4bd2/944a/5a537859f982/640x640.jpg
+https://dn710904.ca.archive.org/0/items/3-a.-m/3%20A.M.mp3
+https://resources.tidal.com/images/f6cd521e/47d3/4943/8fa0/1713c17292cd/640x640.jpg
+#EXTINF:-1,ASI ES LA VIDA / Enrique Iglesias ft. Maria Becerra
+#EXTVLCOPT:arturl=
 https://dn711209.ca.archive.org/0/items/Asieslavida/Enrique%20Iglesias%20-%20Maria%20Becerra%20-%20ASI%20ES%20LA%20VIDA.mp3
 #EXTINF:-1,Baila Esta Cumbia / Selena
 https://dn711002.ca.archive.org/0/items/bailaCumbiaS/Baila%20Esta%20Cumbia.mp3
