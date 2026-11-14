@@ -131,7 +131,7 @@ https://amg00793-amg00793c24-samsung-es-4784.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/Globo.png", Globo TV Bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original", SBT
+#EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/sbt.png", SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", TV Brasil 
@@ -142,9 +142,6 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="", Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/.m3u8
-
-#EXTINF:-1 tvg-logo="", La 7 Italia
-https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 
 #EXTINF:-1 tvg-logo="", ion Television
 https://jmp2.uk/stvp-USBD300002TU
