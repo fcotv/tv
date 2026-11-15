@@ -48,8 +48,7 @@ https://stream-167790.castr.net/6189746bccf0424c112f5476/live_109148e0970a11f1ad
 http://170.254.17.2/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-logo="https://dn711603.ca.archive.org/0/items/logosm3u/Estrella-TV.png", Estrella TV
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", AméricaTV 
+#EXTINF:-1 tvg-logo="https://ia803200.us.archive.org/28/items/logosm3u/Atv.png", AméricaTV 
 https://live.gideo.video/americateve2/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-logo="https://ia601903.us.archive.org/20/items/megatv_202610/Megatv.png", La Mega TV 
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
