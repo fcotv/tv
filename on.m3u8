@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/Golden.png",Golden Premier 
+http://200.57.28.141:8540/play/a0ln
+
 #EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/Estrellas.png", Las Estrellas 
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
 
@@ -102,7 +105,7 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="", MovieSphere
 https://amg00353-amg00353c27-tcl-us-6386.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Hollywood y Más 
+#EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/CHM.png", Hollywood y Más 
 https://amg00658-amg00658c105-lg-us-7334.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-hollywoodymasus-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Adrenalina Pura
