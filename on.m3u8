@@ -75,10 +75,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15620
 #EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/Canaria.png", TV Canaria 
 https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
-
-#EXTINF:-1 tvg-logo="", BBC Series
+#EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/SERIES.png", BBC Series
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://dn711603.ca.archive.org/0/items/logosm3u/24h.png", 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/HyV.png", Historia Y Vida
@@ -100,7 +98,7 @@ https://amg00353-amg00353c27-tcl-us-6386.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/CHM.png", Hollywood y Más 
 https://amg00658-amg00658c105-lg-us-7334.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-hollywoodymasus-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Adrenalina Pura
+#EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/Adrenalina.png", Adrenalina Pura
 https://amg00740-sofa-amg00740c11-lg-mx-8923.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-freezonespanish-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 
 #EXTINF:-1 tvg-logo="https://dn711603.ca.archive.org/0/items/logosm3u/CineES.png", Cine En Español
@@ -159,8 +157,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-fear-vizious/playlis
 
 #EXTINF:-1 tvg-logo="", Free Action Network
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", Free Comedy Network 
+#EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/Comedy.png", Free Comedy Network 
 https://amg00346-amg00346c25-amgplt0022.playout.now3.amagi.tv/playlist/amg00346-amg00346c25-amgplt0022/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ia903206.us.archive.org/6/items/movie-s/MovieS.png",Movie Sphere by LionsGate
