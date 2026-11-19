@@ -92,7 +92,7 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:-1 tvg-logo="https://dn711603.ca.archive.org/0/items/logosm3u/Sony.png", Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", MovieSphere
+#EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/Movie-Sphere.png", MovieSphere
 https://amg00353-amg00353c27-tcl-us-6386.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/CHM.png", Hollywood y Más 
@@ -146,12 +146,10 @@ https://jmp2.uk/stvp-USBC24000223S
 #EXTINF:-1 tvg-logo="", Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo_desktopweb_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads._fw_did=4a0fb6c7-43a6-e252-f303-5f82d2d0ac7e&ads._fw_vcid2=512116:4a0fb6c7-43a6-e252-f303-5f82d2d0ac7e&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=IAB1-5&ads._fw_content_genre=Movies&ads._fw_content_language=en&ads._fw_content_rating=TV-PG&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=2-Personal_Computer&ads.appVersion=2.19.1&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=dpid&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
 
-#EXTINF:-1 tvg-logo="", Great Movies 
+#EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/GreatM.png", Great Movies 
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://ia903107.us.archive.org/19/items/hmm_20261028/HMM.png", Hallmark Movies & More
 https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
-
 #EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/Freemovie.png", Free Movie Network
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-fear-vizious/playlist.m3u8
 
@@ -159,7 +157,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-fear-vizious/playlis
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/Comedy.png", Free Comedy Network 
 https://amg00346-amg00346c25-amgplt0022.playout.now3.amagi.tv/playlist/amg00346-amg00346c25-amgplt0022/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://ia903206.us.archive.org/6/items/movie-s/MovieS.png",Movie Sphere by LionsGate
 https://amg00353-lionsgatestudios-amg00353c2-vizio-us-801.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-vizious/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia600705.us.archive.org/26/items/24-movies/24Movies.png", 24 Hours Movies
