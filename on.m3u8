@@ -116,9 +116,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16512&avod=1&coppa=0&td=6&
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HTzZPY3C/BBCEarth.png", BBC Earth
 https://amg00793-amg00793c24-samsung-es-4784.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/Globo.png", Globo TV Bahia
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-
+#EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/Globo.png", Globo TV Brasília 
+http://79.127.238.228:14173
 #EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/sbt.png", SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
