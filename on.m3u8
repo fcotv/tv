@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg -logo="https://ia903200.us.archive.org/28/items/logosm3u/Star.png", Star Channel
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/Golden.png",Golden Premier 
 http://200.57.28.141:8540/play/a0ln
 #EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/Estrellas.png", Las Estrellas
