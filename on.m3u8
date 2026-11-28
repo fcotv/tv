@@ -4,7 +4,10 @@ http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/Golden.png",Golden Premier 
 http://200.57.28.141:8540/play/a0ln
 #EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/Estrellas.png", Las Estrellas
+https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8
+
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://ia803200.us.archive.org/28/items/logosm3u/Adicta.png", Addicta TV
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69d6d88b1790acff6189dea5.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=RsyzSR6PFiBh3SW8-yzn&auto=0
 #EXTINF:-1 tvg-logo="https://ia903200.us.archive.org/28/items/logosm3u/Cinepolis.png", Cinepolis
